@@ -21,7 +21,7 @@ h2 {
 }
 
 .blue-text {
-  color: #039dff;
+  color: #978d8d;
 }
 
 .wrapper {
@@ -34,7 +34,7 @@ h2 {
   margin: 0 auto 40px;
   width: 60px;
   height: 4px;
-  background-color: #039dff;
+  background-color: #978d8d;
 }
 
 .scroll-fix::before {
@@ -65,7 +65,7 @@ nav a, nav i {
 }
 
 nav a:hover {
-  color: #039dff;
+  color: #978d8d;
 }
 
 nav i {
@@ -77,7 +77,7 @@ nav .navbar-brand {
 }
 
 nav .active {
-  color: #039dff;
+  color: #978d8d;
 }
 
 .shadow-bg {
@@ -164,7 +164,7 @@ header .fa-chevron-down {
 }
 
 #aboutus .aboutus-hover:hover {
-  color: #039dff;
+  color: #978d8d;
 }
 
 #aboutus-hero {
@@ -254,7 +254,7 @@ header .fa-chevron-down {
 }
 
 #prices .price-box h3 {
-  color: #039dff;
+  color: #978d8d;
   text-transform: uppercase;
 }
 
@@ -344,7 +344,7 @@ header .fa-chevron-down {
 }
 
 #team .card-text {
-  font-size: 14px;
+  font-size: 54px;
 }
 
 #achievements .achievement-list {
@@ -394,8 +394,8 @@ header .fa-chevron-down {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 9, 27, 0.83);
-  z-index: -10;
+  background-color: rgba(81, 84, 90, 0.83);
+  z-index: -5;
 }
 
 #contact .contact-us {
@@ -439,7 +439,7 @@ footer {
 
 
 footer p {
-  padding: 20px;
+  padding: 5px;
   margin-bottom: 0;
   text-align: center;
 }
